@@ -34,15 +34,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
+facebook: https://fb.com/harllos
 #twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/harllos-arthur-b7000739/
 # youtube: myyoutube
 # spotify: myspotify
-#github: mygithub
+github: https://github.com/harllos
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ disqus:
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-#email: myemail@gmail.com
+email: harllos@outlook.com
 
 authors:
     johndoe:
