@@ -2,8 +2,8 @@
 title: "Markdown Extra Components"
 layout: post
 date: 2016-02-24 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/markdown.jpg![]
+width: 100x100
 tag:
 - markdown
 - components

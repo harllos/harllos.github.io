@@ -34,15 +34,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://fb.com/harllos
+facebook: harllos
 #twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/harllos-arthur-b7000739/
+linkedin: in/harllos-arthur-b7000739/
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/harllos
+github: harllos
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: https://github.com/harllos
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: harllos@outlook.com
+email: harllosarthur@gmail.com
 
 authors:
     johndoe:
@@ -117,4 +117,4 @@ compress_html:
         - development
         - stage
 
-exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
+exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md", 'vendor']
