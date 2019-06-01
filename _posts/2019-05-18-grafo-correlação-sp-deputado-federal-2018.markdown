@@ -3,9 +3,7 @@ title: "Grafo de correlação entre candidatos a deputado federal de SP em 2018"
 layout: post
 date: 2019-05-18 15:32
 image: /assets/images/bolsowitzel.jpg![]
-width: 300x300
 headerImage: true
-hidden: false
 tag:
 - Grafo
 - Correlação
@@ -42,3 +40,8 @@ Mais e melhores análises ficam para o leitor.
 
 
 ![Correlação Geral](/assets/images/sp2018_dep_pr.png){:class="bigger-image"}
+<figcaption class="caption">Clique no link para ver a imagem maior: https://harllos.github.io/assets/images/sp2018_dep_pr.png </figcaption>
+
+
+<iframe width="560" height="310" src="https://harllos.github.io/network/grafo_sp_2018_depfed_pr.html#" frameborder="0" allowfullscreen></iframe>
+
