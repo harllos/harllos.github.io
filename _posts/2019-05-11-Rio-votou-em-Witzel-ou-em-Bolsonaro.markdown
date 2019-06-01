@@ -2,8 +2,7 @@
 title: "Rio votou em Witzel ou em Bolsonaro?"
 layout: post
 date: 2019-05-11 15:41
-image: /assets/images/bolsowitzel.jpg![]
-width: 300x300
+image: /assets/images/bolsowitzel.jpg
 headerImage: true
 tag:
 - Bolsonaro
