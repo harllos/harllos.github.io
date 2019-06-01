@@ -40,7 +40,7 @@ Vamos, então, ao que interessa! :)
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="http://localhost:4000/assets/images/corr_witzel_bolso.png" alt="Alt Text">
+        <img class="image" src="https://harllos.github.io/assets/images/corr_witzel_bolso.png" alt="Alt Text">
         <figcaption class="caption">Gráfico mostra alta correlação positiva entre os votos de Witzel e de Bolsonaro. Cada ponto representa uma das mais de 30 mil urnas. Os números nos eixos horizontal e vertical representam a quantidade de votos em cada urna.</figcaption>
     </div>
 
