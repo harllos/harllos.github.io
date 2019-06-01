@@ -43,5 +43,5 @@ Mais e melhores análises ficam para o leitor.
 <figcaption class="caption">Clique no link para ver a imagem maior: https://harllos.github.io/assets/images/sp2018_dep_pr.png </figcaption>
 
 
-<iframe width="560" height="310" src="https://harllos.github.io/network/grafo_sp_2018_depfed_pr.html#" frameborder="0" allowfullscreen></iframe>
+<iframe width="1500" height="700" src="https://harllos.github.io/network/grafo_sp_2018_depfed_pr.html#" frameborder="0" allowfullscreen></iframe>
 
