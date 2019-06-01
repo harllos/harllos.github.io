@@ -18,6 +18,7 @@ description: Grafo de correlação entre candidatos a deputado federal de SP em 
 ---
 
 
+
 Para determinar o tamanho de cada nó, utilizei o atributo ["betweenness centrality"](https://en.wikipedia.org/wiki/Betweenness_centrality#Weighted_networks), calculado no próprio Gephi.
 
 Para demonstrar os clusteres da rede, apliquei o algoritmo [Force Atlas](https://github.com/gephi/gephi/wiki/Force-Atlas-2) 2 no Gephi. O grafo é ponderado pela correlação entre os nós.
