@@ -13,7 +13,7 @@ tag:
 - Análise de Dados
 
 category: blog
-author: Harllos Arthur
+author: harllos
 description: Análise da correlação de votos entre Bolsonaro e Witzel no estado do Rio.
 ---
 
