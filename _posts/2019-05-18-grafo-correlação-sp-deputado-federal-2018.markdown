@@ -1,5 +1,5 @@
 ---
-title: "Grafo de correlação entre candidatos a deputado federal de SP em 2018"
+title: "Grafo da correlação entre candidatos a Deputado Federal (SP) em 2018"
 layout: post
 date: 2019-05-18 15:32
 image: /assets/images/print_grafo.png
@@ -9,12 +9,13 @@ tag:
 - Correlação
 - Eleições 2019
 - Python
+- NetworkX
 - Gephi
 - Análise de Dados
 
 category: blog
 author: harllos
-description: Grafo de correlação entre candidatos a deputado federal de SP em 2018.
+description: Grafo da correlação dos candidatos a Deputado Federal (SP) em 2018.
 ---
 
 Mais uma da série "brincando com os boletins de urna" do [TSE](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais-resultado-2014-resultados) :)
@@ -27,7 +28,7 @@ Dito tudo isso, vamos ao grafo. Com os dados do repositório do TSE, foi possív
 
 ![Correlação Geral](/assets/images/sp2018_dep_pr.png){:class="bigger-image"}
 
-A tabela ficou meio grande, mas você pode vê-la em melhor resolução nesse link: https://harllos.github.io/assets/images/sp2018_dep_pr.png 
+A tabela ficou meio grande, mas você pode vê-la em melhor resolução [neste link](https://harllos.github.io/assets/images/sp2018_dep_pr.png). 
 
 Com as correlações e a biblioteca [netwokx](https://networkx.github.io/documentation/stable/) em mãos, pude gerar o grafo com as correlações positivas entre os candidatos. Com a ajuda do [Gephi](https://gephi.org/) e do plugin [Sigma](http://sigmajs.org/), pude gerar um grafo compreensível:  
 

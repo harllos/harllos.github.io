@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://harllos.github.io/assets/harllos_cv.pdf
 
 url: https://harllos.github.io
 # your url: http://USERNAME.github.io
@@ -30,7 +30,7 @@ analytics-google: 'UA-121176068-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: harllosarthur  # enter this from your disqus account
+  shortname: http://disqus.com/by/harllosarthur  # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # other options
@@ -72,7 +72,7 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
