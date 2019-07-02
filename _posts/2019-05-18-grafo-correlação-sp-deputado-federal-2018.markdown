@@ -18,6 +18,9 @@ author: harllos
 description: Grafo da correlação dos candidatos a Deputado Federal (SP) em 2018.
 ---
 
+<meta property="og:image"
+content="https://harllos.github.io/assets/images/print_grafo.png" />
+
 Mais uma da série "brincando com os boletins de urna" do [TSE](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais-resultado-2014-resultados) :)
 
 <span class="evidence">Antes de mais nada, deixo claro que minha principal intenção com esse texto é a de jogar luz às possibilidades que temos para analisar uma área que é comumente reconhecida como pertencente somente às Ciências Sociais. Isso não impede de a gente adicionar um pouco de programação no meio. Além disso, não pretendo analisar pormenorizadamente o grafo. Desse modo, neste *teste*, o que me interessa é contribuir um pouquinho para aqueles estudos que tentam unir humanas com exatas. </span>
