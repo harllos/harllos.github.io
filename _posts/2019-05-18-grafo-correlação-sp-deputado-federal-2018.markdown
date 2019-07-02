@@ -15,9 +15,11 @@ tag:
 
 category: blog
 author: harllos
-description: Grafo da correlação dos candidatos a Deputado Federal (SP) em 2018.
-og:image: content="https://harllos.github.io/assets/images/print_grafo.png" 
+description: "Grafo da correlação dos candidatos a Deputado Federal (SP) em 2018."
 ---
+<head>
+<meta property='og:image' content='https://www.harllos.github.io/assets/images/print_grafo.png"/>
+</head>
 
 Mais uma da série "brincando com os boletins de urna" do [TSE](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais-resultado-2014-resultados) :)
 
