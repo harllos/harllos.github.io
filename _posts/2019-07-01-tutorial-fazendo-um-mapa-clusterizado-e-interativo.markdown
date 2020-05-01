@@ -14,7 +14,7 @@ tag:
 
 category: blog
 author: harllos
-description: "Tutorial: fazendo um mapa clusterizado e interativo."
+description: Veja como fazer um mapa clusterizado e interativo com JavaScript.
 ---
 
 Se você tem uma base de dados de clientes, entregas, endereços ou algo parecido, você pode querer uma melhor visualização das informações disponíveis. Mapas são excelentes recursos para isso. Há diversas excelentes soluções para o desenvolvimento de web mapas (Leaflet, Plotly, Geopandas, Google MyMaps, Folium…). Qualquer uma dessas ferramentas pode fazer algo do mais simples até o mais complexo.
